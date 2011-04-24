@@ -16,7 +16,7 @@ public class AndroidGame extends Activity {
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.dgcgames.balloonblast.Balloonblast;
 
-public class AndroidGame extends AndroidApplication {
+public class AndroidGame extends AndroidApplication {		//h
         public void onCreate (android.os.Bundle savedInstanceState) {
                 super.onCreate(savedInstanceState);
                 initialize(new Balloonblast(), false);
