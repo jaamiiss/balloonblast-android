@@ -3,6 +3,7 @@
 	<name>balloonblast-android</name>
 	<comment></comment>
 	<projects>
+		<project>balloonblastdgc</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
